@@ -85,3 +85,8 @@ p{
 footer{
   padding:30px;
 }
+
+@media (max-width: 1350px) {}
+@media (max-width: 1200px) {}
+@media (max-width: 1024px) {}
+@media (max-width: 860px) {}
